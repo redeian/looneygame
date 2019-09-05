@@ -37,6 +37,7 @@ margin_bottom = 437.0
 size_flags_vertical = 1
 custom_fonts/font = SubResource( 1 )
 text = "Placeholder"
+autowrap = true
 
 [node name="PlayerInput" type="TextEdit" parent="."]
 margin_left = 38.0
